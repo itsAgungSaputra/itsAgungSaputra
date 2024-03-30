@@ -1,0 +1,23 @@
+## 👋 Hi there!
+
+It's me, Agung Saputra.
+
+###
+<div align="center">
+  <a href="https://open.spotify.com/user/217m35ge7d3slyvoh5dno6qyi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=317m4z2f4qjfjnjetknicffzwfsu" alt="Spotify top tracks this month"  />
+  </a>
+</div>
+
+<br>
+
+## 💬 My Skills
+* Programming (**PHP, Kotlin, JavaScript**)
+* Design (**Adobe Photoshop, Canva**)
+
+<br>
+
+## 📈 GitHub Stats
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsAgungSaputra&theme=codeSTACKr)
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsAgungSaputra&theme=codeSTACKr)
+![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsAgungSaputra&theme=codeSTACKr)
