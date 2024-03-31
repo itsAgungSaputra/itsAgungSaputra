@@ -11,7 +11,7 @@ It's me, Agung Saputra.
 
 <br>
 
-## 💬 My Skills
+## 💬 My Skill Set
 * Programming (**PHP, Kotlin, JavaScript**)
 * Design (**Adobe Photoshop, Canva**)
 
