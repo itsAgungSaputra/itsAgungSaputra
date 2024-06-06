@@ -1,3 +1,5 @@
+![portofolio](https://github.com/itsAgungSaputra/itsAgungSaputra/assets/60687674/e53e1307-4256-4202-9940-3aff0757b497)
+
 ## 👋 Hi there!
 
 It's me, Agung Saputra.
