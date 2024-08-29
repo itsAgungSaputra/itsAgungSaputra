@@ -6,12 +6,6 @@ It's me, Agung Saputra.
 
 <br>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/agung_saputra14">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=agung_saputra14" alt="Spotify top tracks this month"  />
-  </a>
-</div>
-
 ###
 <div align="center">
   <a href="https://open.spotify.com/user/agung_saputra14">
