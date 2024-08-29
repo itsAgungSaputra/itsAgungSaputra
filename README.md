@@ -4,17 +4,8 @@
 
 It's me, Agung Saputra.
 
-###
-<div align="center">
-  <a href="https://open.spotify.com/user/agung_saputra14">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=agung_saputra14" alt="Spotify top tracks this month"  />
-  </a>
-</div>
-
-<br>
-
 ## 💬 My Skill Set
-* Programming (**PHP, Kotlin, JavaScript**)
+* Programming (**React JS, Tailwind CSS, Bootstrap, PHP, Kotlin, JavaScript**)
 * Design (**Adobe Photoshop, Figma, Canva**)
 
 <br>
