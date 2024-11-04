@@ -2,7 +2,7 @@
 
 ## 👋 Hi there!
 
-It's me, Agung Saputra.
+**It's me, Agung Saputra.**
 
 <br>
 
