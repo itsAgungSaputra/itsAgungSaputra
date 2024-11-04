@@ -16,7 +16,7 @@ It's me, Agung Saputra.
 <br>
 
 ## 💬 My Skill Set
-* Programming (**React JS, Tailwind CSS, Bootstrap, PHP, Kotlin, JavaScript**)
+* Programming (**React JS, Laravel, Tailwind CSS, Bootstrap, PHP, JavaScript, Kotlin **)
 * Design (**Adobe Photoshop, Figma, Canva**)
 
 <br>
