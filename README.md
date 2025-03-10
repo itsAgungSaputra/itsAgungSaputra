@@ -16,7 +16,7 @@
 <br>
 
 ## 💬 My Skill Set
-* Programming (**React JS, Laravel, Tailwind CSS, Bootstrap, PHP, JavaScript, Kotlin**)
+* Programming (**React JS, Laravel, Next JS, Tailwind CSS, Bootstrap, PHP, JavaScript, Kotlin**)
 * Design (**Adobe Photoshop, Figma, Canva**)
 
 <br>
