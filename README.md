@@ -42,32 +42,10 @@ Here are the technologies and tools I work with:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsAgungSaputra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAgungSaputra&layout=compact&theme=tokyonight&hide_border=true"/>
-  </a>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsAgungSaputra&theme=codeSTACKr" alt="Profile Details" />
 </div>
-
 <br>
-
 <div align="center">
-
-  <a href="https://github.com/gitryant/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsAgungSaputra&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsAgungSaputra&theme=codeSTACKr" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsAgungSaputra&theme=codeSTACKr" />
 </div>
-
-<br>
-
-## 📫 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/agungsaputra14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/agung_saputra____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-</p>
