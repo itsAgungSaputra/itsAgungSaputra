@@ -42,12 +42,25 @@ Here are the technologies and tools I work with:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsAgungSaputra&theme=codeSTACKr" alt="Profile Details" />
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsAgungSaputra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsAgungSaputra&layout=compact&theme=tokyonight&hide_border=true"/>
+  </a>
+
 </div>
+
 <br>
+
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsAgungSaputra&theme=codeSTACKr" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsAgungSaputra&theme=codeSTACKr" />
+
+  <a href="https://github.com/gitryant/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsAgungSaputra&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+
 </div>
 
 <br>
