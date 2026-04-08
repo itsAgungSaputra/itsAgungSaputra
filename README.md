@@ -1,14 +1,8 @@
-
-
 ## 👋 Hi there!
-
 **It's me, Agung Saputra.**
-
 <br>
-
 # 💫 About Me:
 Information Systems fresh graduate with over 5 years of practical experience in Front-End Web Development. Proven track record of contributing to enterprise-level web applications for major clients. Proficient in modern tech stacks with a strong ability to translate complex requirements into user-friendly interfaces. Passionate about leveraging technical expertise to solve real-world problems.
-
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/itsagungsaputra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/agung_saputra____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/agungsaputra14/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@itsagungsaputra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agungsaputraofficial@gmail.com) 
